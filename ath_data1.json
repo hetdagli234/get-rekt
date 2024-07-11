@@ -1,0 +1,58 @@
+{
+  "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "ath": 1.17,
+    "coinGeckoId": "usd-coin",
+    "lastUpdatedAt": "2024-07-10T15:57:29.837Z"
+  },
+  "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "name": "USDT",
+    "symbol": "USDT",
+    "ath": 1.32,
+    "coinGeckoId": "tether",
+    "lastUpdatedAt": "2024-07-10T15:55:57.617Z"
+  },
+  "So11111111111111111111111111111111111111112": {
+    "address": "So11111111111111111111111111111111111111112",
+    "name": "Wrapped SOL",
+    "symbol": "SOL",
+    "ath": 209.09,
+    "coinGeckoId": "wrapped-solana",
+    "lastUpdatedAt": "2024-07-11T07:54:18.919Z"
+  },
+  "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm": {
+    "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "name": "dogwifhat",
+    "symbol": "$WIF",
+    "ath": 4.83,
+    "coinGeckoId": "dogwifcoin",
+    "lastUpdatedAt": "2024-07-11T07:54:33.867Z"
+  },
+  "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump": {
+    "address": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+    "name": "BILLY",
+    "symbol": "BILLY",
+    "ath": 0.198819,
+    "coinGeckoId": "billy",
+    "lastUpdatedAt": "2024-07-11T07:54:28.931Z"
+  },
+  "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr": {
+    "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "name": "Popcat",
+    "symbol": "POPCAT",
+    "ath": 0.716856,
+    "coinGeckoId": "popcat",
+    "lastUpdatedAt": "2024-07-11T07:54:13.696Z"
+  },
+  "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn": {
+    "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "name": "Jito Staked SOL",
+    "symbol": "JitoSOL",
+    "ath": 228.2,
+    "coinGeckoId": "jito-staked-sol",
+    "lastUpdatedAt": "2024-07-11T07:54:28.516Z"
+  }
+}
